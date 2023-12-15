@@ -210,3 +210,9 @@ https://edgetx.gitbook.io/edgetx-user-manual/b-and-w-radios
 
 Видео со стартовой настройкой аппаратуры на базе EdgeTX:
 https://www.youtube.com/watch?v=wU67j2G5Ibg
+
+## Полезные LUA - скрипты 
+
+Полезный скрипт для доступа к настройкам betaflight с экрана аппаратуры. Сильно облегчает настройку пидов:
+https://github.com/betaflight/betaflight-tx-lua-scripts/
+
